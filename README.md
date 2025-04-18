@@ -1,2 +1,2 @@
 # mrcklinn.github.io
-Sample-Deployed Github Pages for Mcme, Inc.
+Sample-Deployed Github Pages for Mrcme,Inc.
